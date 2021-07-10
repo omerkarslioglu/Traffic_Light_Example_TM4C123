@@ -1,11 +1,13 @@
 # Traffic Light_Example | TM4C123
 General Purpose of This Laboratory : Making a traffic light scenario using the final state machine and with SysTick that is the peripheral unit of the microcontroller .
 
+![image](https://user-images.githubusercontent.com/67158049/125168064-41d47800-e1ac-11eb-9345-1c064e75d1f6.png)
+
 
 # Pin/Port Selection :
 
-OUTPUTS
---------------
+OUTPUTS :
+
 PE1 , PE2 and PE3 are connected to south leds .
 PE1 is connected to red .
 PE2 is connected to yellow .
@@ -20,8 +22,9 @@ PE4 and PE5 are connected to walking leds .
 PE4 is connected to red .
 PE5 is connected to green .
 Pin/Port Selection :
-INPUTS
------------
+
+INPUTS :
+
 PA2 , PA3 and PA4 are connected to switches .
 Circular reading value is 1 . I used pull up ressistor .
 If switches are pressed , the data is read as 0 .
