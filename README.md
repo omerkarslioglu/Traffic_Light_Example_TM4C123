@@ -1,4 +1,7 @@
-# Traffic Light_Example | TM4C123
+![tm4c123examples ](https://user-images.githubusercontent.com/67158049/125168162-b27b9480-e1ac-11eb-943c-11a753f56c37.png)
+
+
+# Traffic Light Example | TM4C123
 General Purpose of This Laboratory : Making a traffic light scenario using the final state machine and with SysTick that is the peripheral unit of the microcontroller .
 
 ![image](https://user-images.githubusercontent.com/67158049/125168064-41d47800-e1ac-11eb-9345-1c064e75d1f6.png)
