@@ -47,7 +47,7 @@ Walking Leds (GREEN RED)-South Leds (GREEN YELLOW RED) - West Leds (GREEN YELLOW
 
 ![image](https://user-images.githubusercontent.com/67158049/125167947-c07ce580-e1ab-11eb-8386-b0c81a3c8d6a.png)
 
-![image](https://user-images.githubusercontent.com/67158049/125167955-cb377a80-e1ab-11eb-873b-62577bc70f7a.png)
+![Screenshot from 2023-07-18 10-20-32](https://github.com/omerkarslioglu/Traffic_Light_Example_TM4C123/assets/67158049/8336575a-c5c0-4638-ae95-5819ac1066e4)
 
 Thanks for reading ...
 
